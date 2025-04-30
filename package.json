@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
-  "start": "serve -p $PORT",
-  "test": "echo \"Error: no test specified\" && exit 1"
-},
+     "start": "npx serve -p $PORT",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BastianCarrasco/diplomado.git"
